@@ -4,7 +4,7 @@
 An end to end machine learning project on predicting machine failures using predictive maintenance techniques.
 
 # Project Structure
-
+```
 ├── artifacts/ # Model artifacts and saved data
 ├── config/ # Configuration files
 ├── deployment.yaml # Kubernetes deployment file
@@ -20,7 +20,7 @@ An end to end machine learning project on predicting machine failures using pred
 ├── src/ # Source code including model training & inference
 ├── templates/ # Streamlit UI templates
 └── README.md # Project documentation
-
+```
 
 # Technologies Used
 
